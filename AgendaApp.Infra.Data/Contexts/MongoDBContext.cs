@@ -9,33 +9,27 @@ using MongoDB.Driver;
 
 namespace AgendaApp.Infra.Data.Contexts
 {
-    public class MongoDBContext
+    public class MongoDBContext<T> where T : class
     {
-        private IMongoDatabase? _database;
+        private readonly IMongoDatabase? _database;
+        private readonly string? _collectionName;
 
-        public MongoDBContext()
+        public MongoDBContext(string collectionName)
         {
             var clientSettings = MongoClientSettings.FromUrl
-                (new MongoUrl(MongoDBSettings.Host));
+            (new MongoUrl(MongoDBSettings.Host));
 
             var mongoClient = new MongoClient(clientSettings);
 
             _database = mongoClient.GetDatabase(MongoDBSettings.Database);
+            _collectionName = collectionName;
         }
 
-        public IMongoCollection<Pessoa>? Pessoas
+        public IMongoCollection<T>? Collection
         {
             get
             {
-                return _database?.GetCollection<Pessoa>("Pessoas");
-            }
-        }
-
-        public IMongoCollection<Tarefa>? Tarefas
-        {
-            get
-            {
-                return _database?.GetCollection<Tarefa>("Tarefas");
+                return _database?.GetCollection<T>(_collectionName);
             }
         }
     }

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\ws-CSharp\\AgendaApp.API\\AgendaApp.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{152C1255-0D2E-4939-ABA5-F652345CDEB9}|AgendaApp.Infra.Data\\AgendaApp.Infra.Data.csproj|c:\\ws-csharp\\agendaapp.api\\agendaapp.api\\agendaapp.infra.data\\contexts\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{152C1255-0D2E-4939-ABA5-F652345CDEB9}|AgendaApp.Infra.Data\\AgendaApp.Infra.Data.csproj|solutionrelative:agendaapp.infra.data\\contexts\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{152C1255-0D2E-4939-ABA5-F652345CDEB9}|AgendaApp.Infra.Data\\AgendaApp.Infra.Data.csproj|c:\\ws-csharp\\agendaapp.api\\agendaapp.api\\agendaapp.infra.data\\repositories\\tarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{152C1255-0D2E-4939-ABA5-F652345CDEB9}|AgendaApp.Infra.Data\\AgendaApp.Infra.Data.csproj|solutionrelative:agendaapp.infra.data\\repositories\\tarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{152C1255-0D2E-4939-ABA5-F652345CDEB9}|AgendaApp.Infra.Data\\AgendaApp.Infra.Data.csproj|c:\\ws-csharp\\agendaapp.api\\agendaapp.api\\agendaapp.infra.data\\repositories\\pessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{152C1255-0D2E-4939-ABA5-F652345CDEB9}|AgendaApp.Infra.Data\\AgendaApp.Infra.Data.csproj|solutionrelative:agendaapp.infra.data\\repositories\\pessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{152C1255-0D2E-4939-ABA5-F652345CDEB9}|AgendaApp.Infra.Data\\AgendaApp.Infra.Data.csproj|c:\\ws-csharp\\agendaapp.api\\agendaapp.api\\agendaapp.infra.data\\contexts\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{152C1255-0D2E-4939-ABA5-F652345CDEB9}|AgendaApp.Infra.Data\\AgendaApp.Infra.Data.csproj|solutionrelative:agendaapp.infra.data\\contexts\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{152C1255-0D2E-4939-ABA5-F652345CDEB9}|AgendaApp.Infra.Data\\AgendaApp.Infra.Data.csproj|c:\\ws-csharp\\agendaapp.api\\agendaapp.api\\agendaapp.infra.data\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TarefaRepository.cs",
               "DocumentMoniker": "C:\\ws-CSharp\\AgendaApp.API\\AgendaApp.API\\AgendaApp.Infra.Data\\Repositories\\TarefaRepository.cs",
               "RelativeDocumentMoniker": "AgendaApp.Infra.Data\\Repositories\\TarefaRepository.cs",
@@ -47,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PessoaRepository.cs",
               "DocumentMoniker": "C:\\ws-CSharp\\AgendaApp.API\\AgendaApp.API\\AgendaApp.Infra.Data\\Repositories\\PessoaRepository.cs",
               "RelativeDocumentMoniker": "AgendaApp.Infra.Data\\Repositories\\PessoaRepository.cs",
@@ -55,12 +55,11 @@
               "RelativeToolTip": "AgendaApp.Infra.Data\\Repositories\\PessoaRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T13:33:31.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T13:33:31.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BaseRepository.cs",
               "DocumentMoniker": "C:\\ws-CSharp\\AgendaApp.API\\AgendaApp.API\\AgendaApp.Infra.Data\\Repositories\\BaseRepository.cs",
               "RelativeDocumentMoniker": "AgendaApp.Infra.Data\\Repositories\\BaseRepository.cs",
@@ -68,18 +67,17 @@
               "RelativeToolTip": "AgendaApp.Infra.Data\\Repositories\\BaseRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T13:31:43.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T13:31:43.09Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MongoDBContext.cs",
               "DocumentMoniker": "C:\\ws-CSharp\\AgendaApp.API\\AgendaApp.API\\AgendaApp.Infra.Data\\Contexts\\MongoDBContext.cs",
               "RelativeDocumentMoniker": "AgendaApp.Infra.Data\\Contexts\\MongoDBContext.cs",
               "ToolTip": "C:\\ws-CSharp\\AgendaApp.API\\AgendaApp.API\\AgendaApp.Infra.Data\\Contexts\\MongoDBContext.cs",
               "RelativeToolTip": "AgendaApp.Infra.Data\\Contexts\\MongoDBContext.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAcwCUAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAjwAsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T13:26:46.291Z",
               "EditorCaption": ""
@@ -94,8 +92,7 @@
               "RelativeToolTip": "AgendaApp.Infra.Data\\Settings\\MongoDBSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T13:20:12.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T13:20:12.322Z"
             }
           ]
         }
