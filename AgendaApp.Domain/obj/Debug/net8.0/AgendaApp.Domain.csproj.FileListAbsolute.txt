@@ -1,0 +1,12 @@
+C:\ws-CSharp\AgendaApp.API\AgendaApp.API\AgendaApp.Domain\bin\Debug\net8.0\AgendaApp.Domain.deps.json
+C:\ws-CSharp\AgendaApp.API\AgendaApp.API\AgendaApp.Domain\bin\Debug\net8.0\AgendaApp.Domain.dll
+C:\ws-CSharp\AgendaApp.API\AgendaApp.API\AgendaApp.Domain\bin\Debug\net8.0\AgendaApp.Domain.pdb
+C:\ws-CSharp\AgendaApp.API\AgendaApp.API\AgendaApp.Domain\obj\Debug\net8.0\AgendaApp.Domain.csproj.AssemblyReference.cache
+C:\ws-CSharp\AgendaApp.API\AgendaApp.API\AgendaApp.Domain\obj\Debug\net8.0\AgendaApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-CSharp\AgendaApp.API\AgendaApp.API\AgendaApp.Domain\obj\Debug\net8.0\AgendaApp.Domain.AssemblyInfoInputs.cache
+C:\ws-CSharp\AgendaApp.API\AgendaApp.API\AgendaApp.Domain\obj\Debug\net8.0\AgendaApp.Domain.AssemblyInfo.cs
+C:\ws-CSharp\AgendaApp.API\AgendaApp.API\AgendaApp.Domain\obj\Debug\net8.0\AgendaApp.Domain.csproj.CoreCompileInputs.cache
+C:\ws-CSharp\AgendaApp.API\AgendaApp.API\AgendaApp.Domain\obj\Debug\net8.0\AgendaApp.Domain.dll
+C:\ws-CSharp\AgendaApp.API\AgendaApp.API\AgendaApp.Domain\obj\Debug\net8.0\refint\AgendaApp.Domain.dll
+C:\ws-CSharp\AgendaApp.API\AgendaApp.API\AgendaApp.Domain\obj\Debug\net8.0\AgendaApp.Domain.pdb
+C:\ws-CSharp\AgendaApp.API\AgendaApp.API\AgendaApp.Domain\obj\Debug\net8.0\ref\AgendaApp.Domain.dll

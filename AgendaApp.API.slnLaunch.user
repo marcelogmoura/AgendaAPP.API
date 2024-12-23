@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "AgendaApp.API\\AgendaApp.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AgendaAPP.UI\\AgendaAPP.UI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
