@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgendaApp.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+486624874246b37581e94e58cda03f76ad32ea3d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a8384134443cd1e35e5f86be7b46d27b6397046")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgendaApp.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgendaApp.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

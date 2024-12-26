@@ -8,9 +8,7 @@
 
   <ItemGroup>
     <Folder Include="Interfaces\Messages\" />
-    <Folder Include="Interfaces\Services\" />
     <Folder Include="Interfaces\Security\" />
-    <Folder Include="Services\" />
   </ItemGroup>
 
   <ItemGroup>
