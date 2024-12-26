@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\ws-CSharp\\AgendaApp.API\\AgendaApp.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{152C1255-0D2E-4939-ABA5-F652345CDEB9}|AgendaApp.Infra.Data\\AgendaApp.Infra.Data.csproj|c:\\ws-csharp\\agendaapp.api\\agendaapp.api\\agendaapp.infra.data\\contexts\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{152C1255-0D2E-4939-ABA5-F652345CDEB9}|AgendaApp.Infra.Data\\AgendaApp.Infra.Data.csproj|solutionrelative:agendaapp.infra.data\\contexts\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1D574B7-B00E-4240-8BAA-26B6556DC331}|AgendaApp.Domain\\AgendaApp.Domain.csproj|c:\\ws-csharp\\agendaapp.api\\agendaapp.api\\agendaapp.domain\\dtos\\responses\\tarefaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D574B7-B00E-4240-8BAA-26B6556DC331}|AgendaApp.Domain\\AgendaApp.Domain.csproj|solutionrelative:agendaapp.domain\\dtos\\responses\\tarefaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{152C1255-0D2E-4939-ABA5-F652345CDEB9}|AgendaApp.Infra.Data\\AgendaApp.Infra.Data.csproj|c:\\ws-csharp\\agendaapp.api\\agendaapp.api\\agendaapp.infra.data\\repositories\\tarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{152C1255-0D2E-4939-ABA5-F652345CDEB9}|AgendaApp.Infra.Data\\AgendaApp.Infra.Data.csproj|solutionrelative:agendaapp.infra.data\\repositories\\tarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1D574B7-B00E-4240-8BAA-26B6556DC331}|AgendaApp.Domain\\AgendaApp.Domain.csproj|c:\\ws-csharp\\agendaapp.api\\agendaapp.api\\agendaapp.domain\\dtos\\responses\\criarpessoaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D574B7-B00E-4240-8BAA-26B6556DC331}|AgendaApp.Domain\\AgendaApp.Domain.csproj|solutionrelative:agendaapp.domain\\dtos\\responses\\criarpessoaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{152C1255-0D2E-4939-ABA5-F652345CDEB9}|AgendaApp.Infra.Data\\AgendaApp.Infra.Data.csproj|c:\\ws-csharp\\agendaapp.api\\agendaapp.api\\agendaapp.infra.data\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{152C1255-0D2E-4939-ABA5-F652345CDEB9}|AgendaApp.Infra.Data\\AgendaApp.Infra.Data.csproj|solutionrelative:agendaapp.infra.data\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1D574B7-B00E-4240-8BAA-26B6556DC331}|AgendaApp.Domain\\AgendaApp.Domain.csproj|c:\\ws-csharp\\agendaapp.api\\agendaapp.api\\agendaapp.domain\\dtos\\responses\\autenticarpessoaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D574B7-B00E-4240-8BAA-26B6556DC331}|AgendaApp.Domain\\AgendaApp.Domain.csproj|solutionrelative:agendaapp.domain\\dtos\\responses\\autenticarpessoaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{152C1255-0D2E-4939-ABA5-F652345CDEB9}|AgendaApp.Infra.Data\\AgendaApp.Infra.Data.csproj|c:\\ws-csharp\\agendaapp.api\\agendaapp.api\\agendaapp.infra.data\\repositories\\pessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{152C1255-0D2E-4939-ABA5-F652345CDEB9}|AgendaApp.Infra.Data\\AgendaApp.Infra.Data.csproj|solutionrelative:agendaapp.infra.data\\repositories\\pessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1D574B7-B00E-4240-8BAA-26B6556DC331}|AgendaApp.Domain\\AgendaApp.Domain.csproj|c:\\ws-csharp\\agendaapp.api\\agendaapp.api\\agendaapp.domain\\dtos\\requests\\tarefarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D574B7-B00E-4240-8BAA-26B6556DC331}|AgendaApp.Domain\\AgendaApp.Domain.csproj|solutionrelative:agendaapp.domain\\dtos\\requests\\tarefarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{152C1255-0D2E-4939-ABA5-F652345CDEB9}|AgendaApp.Infra.Data\\AgendaApp.Infra.Data.csproj|c:\\ws-csharp\\agendaapp.api\\agendaapp.api\\agendaapp.infra.data\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{152C1255-0D2E-4939-ABA5-F652345CDEB9}|AgendaApp.Infra.Data\\AgendaApp.Infra.Data.csproj|solutionrelative:agendaapp.infra.data\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1D574B7-B00E-4240-8BAA-26B6556DC331}|AgendaApp.Domain\\AgendaApp.Domain.csproj|c:\\ws-csharp\\agendaapp.api\\agendaapp.api\\agendaapp.domain\\dtos\\requests\\autenticarpessoarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D574B7-B00E-4240-8BAA-26B6556DC331}|AgendaApp.Domain\\AgendaApp.Domain.csproj|solutionrelative:agendaapp.domain\\dtos\\requests\\autenticarpessoarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D574B7-B00E-4240-8BAA-26B6556DC331}|AgendaApp.Domain\\AgendaApp.Domain.csproj|c:\\ws-csharp\\agendaapp.api\\agendaapp.api\\agendaapp.domain\\dtos\\requests\\criarpessoarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D574B7-B00E-4240-8BAA-26B6556DC331}|AgendaApp.Domain\\AgendaApp.Domain.csproj|solutionrelative:agendaapp.domain\\dtos\\requests\\criarpessoarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D574B7-B00E-4240-8BAA-26B6556DC331}|AgendaApp.Domain\\AgendaApp.Domain.csproj|c:\\ws-csharp\\agendaapp.api\\agendaapp.api\\agendaapp.domain\\entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D574B7-B00E-4240-8BAA-26B6556DC331}|AgendaApp.Domain\\AgendaApp.Domain.csproj|solutionrelative:agendaapp.domain\\entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +38,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TarefaRepository.cs",
-              "DocumentMoniker": "C:\\ws-CSharp\\AgendaApp.API\\AgendaApp.API\\AgendaApp.Infra.Data\\Repositories\\TarefaRepository.cs",
-              "RelativeDocumentMoniker": "AgendaApp.Infra.Data\\Repositories\\TarefaRepository.cs",
-              "ToolTip": "C:\\ws-CSharp\\AgendaApp.API\\AgendaApp.API\\AgendaApp.Infra.Data\\Repositories\\TarefaRepository.cs",
-              "RelativeToolTip": "AgendaApp.Infra.Data\\Repositories\\TarefaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "TarefaResponse.cs",
+              "DocumentMoniker": "C:\\ws-CSharp\\AgendaApp.API\\AgendaApp.API\\AgendaApp.Domain\\Dtos\\Responses\\TarefaResponse.cs",
+              "RelativeDocumentMoniker": "AgendaApp.Domain\\Dtos\\Responses\\TarefaResponse.cs",
+              "ToolTip": "C:\\ws-CSharp\\AgendaApp.API\\AgendaApp.API\\AgendaApp.Domain\\Dtos\\Responses\\TarefaResponse.cs",
+              "RelativeToolTip": "AgendaApp.Domain\\Dtos\\Responses\\TarefaResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T13:35:55.649Z",
+              "WhenOpened": "2024-12-26T13:55:12.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CriarPessoaResponse.cs",
+              "DocumentMoniker": "C:\\ws-CSharp\\AgendaApp.API\\AgendaApp.API\\AgendaApp.Domain\\Dtos\\Responses\\CriarPessoaResponse.cs",
+              "RelativeDocumentMoniker": "AgendaApp.Domain\\Dtos\\Responses\\CriarPessoaResponse.cs",
+              "ToolTip": "C:\\ws-CSharp\\AgendaApp.API\\AgendaApp.API\\AgendaApp.Domain\\Dtos\\Responses\\CriarPessoaResponse.cs",
+              "RelativeToolTip": "AgendaApp.Domain\\Dtos\\Responses\\CriarPessoaResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:54:48.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutenticarPessoaResponse.cs",
+              "DocumentMoniker": "C:\\ws-CSharp\\AgendaApp.API\\AgendaApp.API\\AgendaApp.Domain\\Dtos\\Responses\\AutenticarPessoaResponse.cs",
+              "RelativeDocumentMoniker": "AgendaApp.Domain\\Dtos\\Responses\\AutenticarPessoaResponse.cs",
+              "ToolTip": "C:\\ws-CSharp\\AgendaApp.API\\AgendaApp.API\\AgendaApp.Domain\\Dtos\\Responses\\AutenticarPessoaResponse.cs",
+              "RelativeToolTip": "AgendaApp.Domain\\Dtos\\Responses\\AutenticarPessoaResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:54:20.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PessoaRepository.cs",
-              "DocumentMoniker": "C:\\ws-CSharp\\AgendaApp.API\\AgendaApp.API\\AgendaApp.Infra.Data\\Repositories\\PessoaRepository.cs",
-              "RelativeDocumentMoniker": "AgendaApp.Infra.Data\\Repositories\\PessoaRepository.cs",
-              "ToolTip": "C:\\ws-CSharp\\AgendaApp.API\\AgendaApp.API\\AgendaApp.Infra.Data\\Repositories\\PessoaRepository.cs",
-              "RelativeToolTip": "AgendaApp.Infra.Data\\Repositories\\PessoaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Title": "TarefaRequest.cs",
+              "DocumentMoniker": "C:\\ws-CSharp\\AgendaApp.API\\AgendaApp.API\\AgendaApp.Domain\\Dtos\\Requests\\TarefaRequest.cs",
+              "RelativeDocumentMoniker": "AgendaApp.Domain\\Dtos\\Requests\\TarefaRequest.cs",
+              "ToolTip": "C:\\ws-CSharp\\AgendaApp.API\\AgendaApp.API\\AgendaApp.Domain\\Dtos\\Requests\\TarefaRequest.cs",
+              "RelativeToolTip": "AgendaApp.Domain\\Dtos\\Requests\\TarefaRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T13:33:31.112Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "C:\\ws-CSharp\\AgendaApp.API\\AgendaApp.API\\AgendaApp.Infra.Data\\Repositories\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "AgendaApp.Infra.Data\\Repositories\\BaseRepository.cs",
-              "ToolTip": "C:\\ws-CSharp\\AgendaApp.API\\AgendaApp.API\\AgendaApp.Infra.Data\\Repositories\\BaseRepository.cs",
-              "RelativeToolTip": "AgendaApp.Infra.Data\\Repositories\\BaseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T13:31:43.09Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MongoDBContext.cs",
-              "DocumentMoniker": "C:\\ws-CSharp\\AgendaApp.API\\AgendaApp.API\\AgendaApp.Infra.Data\\Contexts\\MongoDBContext.cs",
-              "RelativeDocumentMoniker": "AgendaApp.Infra.Data\\Contexts\\MongoDBContext.cs",
-              "ToolTip": "C:\\ws-CSharp\\AgendaApp.API\\AgendaApp.API\\AgendaApp.Infra.Data\\Contexts\\MongoDBContext.cs",
-              "RelativeToolTip": "AgendaApp.Infra.Data\\Contexts\\MongoDBContext.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAjwAsAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T13:26:46.291Z",
+              "WhenOpened": "2024-12-26T13:49:39.479Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MongoDBSettings.cs",
-              "DocumentMoniker": "C:\\ws-CSharp\\AgendaApp.API\\AgendaApp.API\\AgendaApp.Infra.Data\\Settings\\MongoDBSettings.cs",
-              "RelativeDocumentMoniker": "AgendaApp.Infra.Data\\Settings\\MongoDBSettings.cs",
-              "ToolTip": "C:\\ws-CSharp\\AgendaApp.API\\AgendaApp.API\\AgendaApp.Infra.Data\\Settings\\MongoDBSettings.cs",
-              "RelativeToolTip": "AgendaApp.Infra.Data\\Settings\\MongoDBSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Title": "AutenticarPessoaRequest.cs",
+              "DocumentMoniker": "C:\\ws-CSharp\\AgendaApp.API\\AgendaApp.API\\AgendaApp.Domain\\Dtos\\Requests\\AutenticarPessoaRequest.cs",
+              "RelativeDocumentMoniker": "AgendaApp.Domain\\Dtos\\Requests\\AutenticarPessoaRequest.cs",
+              "ToolTip": "C:\\ws-CSharp\\AgendaApp.API\\AgendaApp.API\\AgendaApp.Domain\\Dtos\\Requests\\AutenticarPessoaRequest.cs",
+              "RelativeToolTip": "AgendaApp.Domain\\Dtos\\Requests\\AutenticarPessoaRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T13:20:12.322Z"
+              "WhenOpened": "2024-12-26T13:48:38.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\ws-CSharp\\AgendaApp.API\\AgendaApp.API\\AgendaApp.Domain\\Entities\\Pessoa.cs",
+              "RelativeDocumentMoniker": "AgendaApp.Domain\\Entities\\Pessoa.cs",
+              "ToolTip": "C:\\ws-CSharp\\AgendaApp.API\\AgendaApp.API\\AgendaApp.Domain\\Entities\\Pessoa.cs",
+              "RelativeToolTip": "AgendaApp.Domain\\Entities\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:48:11.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CriarPessoaRequest.cs",
+              "DocumentMoniker": "C:\\ws-CSharp\\AgendaApp.API\\AgendaApp.API\\AgendaApp.Domain\\Dtos\\Requests\\CriarPessoaRequest.cs",
+              "RelativeDocumentMoniker": "AgendaApp.Domain\\Dtos\\Requests\\CriarPessoaRequest.cs",
+              "ToolTip": "C:\\ws-CSharp\\AgendaApp.API\\AgendaApp.API\\AgendaApp.Domain\\Dtos\\Requests\\CriarPessoaRequest.cs",
+              "RelativeToolTip": "AgendaApp.Domain\\Dtos\\Requests\\CriarPessoaRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:47:52.95Z",
+              "EditorCaption": ""
             }
           ]
         }

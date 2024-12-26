@@ -10,10 +10,11 @@ namespace AgendaApp.Domain.Interfaces.Repositories
     {
         void Add(T obj);
 
-        void Update(T obj);
-        void Delete(T obj);
+        void Update(Guid id, T obj);
+        void Delete(Guid id);
 
         List<T> GetAll();
+        
         T? GetById(Guid id);
 
     }

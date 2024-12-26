@@ -5,36 +5,48 @@ using System.Text;
 using System.Threading.Tasks;
 using AgendaApp.Domain.Interfaces.Repositories;
 using AgendaApp.Infra.Data.Contexts;
+using MongoDB.Driver;
 
 namespace AgendaApp.Infra.Data.Repositories
 {
     public class BaseRepository<T> : IBaseRepository<T> where T : class
     {
-        protected MongoDBContext context = new MongoDBContext();
+        protected readonly MongoDBContext<T> _context;
+        private string v;
 
-        public void Add(T obj)
+        public BaseRepository(MongoDBContext<T> context)
         {
-            throw new NotImplementedException();
+            _context = context;
         }
 
-        public void Delete(T obj)
+        public BaseRepository(string v)
         {
-            throw new NotImplementedException();
+            this.v = v;
         }
 
-        public List<T> GetAll()
+        public virtual void Add(T obj)
         {
-            throw new NotImplementedException();
+            _context?.Collection?.InsertOne(obj);
         }
 
-        public T? GetById(Guid id)
+        public virtual void Delete(Guid id)
         {
-            throw new NotImplementedException();
+            _context?.Collection?.DeleteOne(Builders<T>.Filter.Eq("_id", id));
         }
 
-        public void Update(T obj)
+        public virtual List<T> GetAll()
         {
-            throw new NotImplementedException();
+            return _context?.Collection?.Find(_ => true).ToList();
+        }
+
+        public void Update(Guid id, T obj)
+        {
+            _context?.Collection?.ReplaceOne(Builders<T>.Filter.Eq("_id", id), obj);
+        }
+
+        public virtual T? GetById(Guid id)
+        {
+            return _context?.Collection?.Find(Builders<T>.Filter.Eq("_id", id)).FirstOrDefault();
         }
     }
 }
